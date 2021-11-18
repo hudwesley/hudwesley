@@ -1,5 +1,6 @@
 
 ## Olá! Sou o Hudwesley Morais
+⚡ Atualmente estou estudando para ser Desenvolvedor Web - Fullstack <br>
 
 <div align="center">
   <a href="https://github.com/hudwesley">
