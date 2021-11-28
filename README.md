@@ -18,13 +18,13 @@ Atualmente estou estudando para ser um desenvolvedor full stack.
   <img align="center" alt="Hudwesley-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
   
-  ##
+ ##
   
 <div> 
   <img align="right" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875.gif">
 </br>
-
-  ##
+ 
+  <h2> CONTATO </h2>
   
  <div>
   <a href="https://www.linkedin.com/in/hudwesley-morais-033315218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
