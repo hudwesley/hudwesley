@@ -1,6 +1,6 @@
 
-## Hi! I'm o Hudwesley Morais
-I'm currently studying to be a full stack developer.
+## Olá! Sou o Hudwesley.
+Atualmente estou estudando para ser um desenvolvedor full stack.
 
 
 <div align="center">
@@ -8,6 +8,7 @@ I'm currently studying to be a full stack developer.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hudwesley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudwesley&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Hudwesley-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Hudwesley-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
@@ -16,6 +17,9 @@ I'm currently studying to be a full stack developer.
   <img align="center" alt="Hudwesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hudwesley-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
+<div> 
+  <img align="right" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875">
+</br>
 
   ##
   
