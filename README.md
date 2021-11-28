@@ -19,16 +19,12 @@
     <img align="center" alt="Hudwesley-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   </div>
 
-   ##
-
-  <div> 
-    <img align="right" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875.gif">
-  </br>
-  
-   <h2> CONTATO </h2>
-    
+ 
+   <h3> CONTATO </h3>
    <div>
-    <a href="https://www.linkedin.com/in/hudwesley-morais-033315218" height="45" height="50" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/hudwesley-morais-033315218" height="45" height="50" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:hfmp2406@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
-  </div>
-
+  </div><br>
+   
+   <img align="center" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875.gif">
+ 
