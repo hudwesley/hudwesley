@@ -1,9 +1,6 @@
 
-## Olá! Sou o Hudwesley Morais
-Estudo no IFMG - Campus Ouro Branco, faço o curso Técnico Integrado em Informática com foco em desenvolvimento de software. 
-A linguagem que mais utilizei no meu período escolar foi Java, tendo conhecimento sólido em POO e GUI. 
-No momento estou desenvolvendo meu TCC, onde estou desempenhando o papel de programador full stack, utilizando HTML, CSS e JavaScript no Front-end, e PHP no Back-end.
-Também estou desempenhando o papel de programador mobile, desenvolvendo um aplicativo que complementará o site principal do TCC.
+## Hi! I'm o Hudwesley Morais
+I'm currently studying to be a full stack developer.
 
 
 <div align="center">
