@@ -2,9 +2,7 @@
 ## Olá! Sou o Hudwesley.
 <h3> SOBRE MIM </h3>
     Sou o Hudwesley Morais, tenho 19 anos e moro em Conselheiro Lafaiete - MG. Atualmente sou aluno no IFMG - Campus Ouro Branco, estou fazendo o curso Técnico em Informática tendo foco em desenvolvimento de software. 
-    No momento estou desenvolvendo um site como projeto de TCC, onde estou utilizando HTML, CSS e JavaScript no Front-end e PHP no Back-end. Também estou desenvolvendo um aplicativo mobile que complementará o site. 
   
-
 <br> <br>
   <div align="center">
     <a href="https://github.com/hudwesley">
@@ -28,8 +26,9 @@
   </br>
   
    <h2> CONTATO </h2>
+    
    <div>
-    <a href="https://www.linkedin.com/in/hudwesley-morais-033315218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:hfmp2406@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/hudwesley-morais-033315218" height="45" height="50" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:hfmp2406@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
   </div>
 
