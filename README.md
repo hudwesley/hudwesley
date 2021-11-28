@@ -17,8 +17,11 @@ Atualmente estou estudando para ser um desenvolvedor full stack.
   <img align="center" alt="Hudwesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hudwesley-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
+  
+  ##
+  
 <div> 
-  <img align="right" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875">
+  <img align="right" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875.gif">
 </br>
 
   ##
