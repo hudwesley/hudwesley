@@ -1,7 +1,8 @@
 
 ## Olá! Sou o Hudwesley.
 <h3> SOBRE MIM </h3>
-    Sou o Hudwesley Morais, tenho 19 anos e moro em Conselheiro Lafaiete - MG. Atualmente sou aluno no IFMG - Campus Ouro Branco, estou fazendo o curso Técnico em Informática.
+    Sou o Hudwesley Morais, tenho 19 anos e moro em Conselheiro Lafaiete - MG. Sou formado em Técnico em Informática com enfâse em desenvolvimento de software pelo IFMG - Campus Ouro Branco.
+    Atualmente tenho conhecimento em desenvolvimento web e mobile, atuando como desenvolvedor fullstack.
   
 <br> <br>
   <div align="center">
