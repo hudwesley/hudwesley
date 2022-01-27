@@ -27,5 +27,5 @@
     <a href = "mailto:hfmp2406@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
   </div><br>
    
-   <img align="center" alt="edward-elric.gif" src="https://tenor.com/view/love-alphonseelric-edwardelric-japanese-loveanime-gif-18461875.gif">
+  
  
